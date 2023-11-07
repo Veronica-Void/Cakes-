@@ -1,0 +1,20 @@
+body{
+    margin: 1cm
+}
+
+
+#cake1{
+    float: right;
+
+}
+    
+#cake2{
+    float: right;
+}
+
+#cake3{
+    float: right; 
+}
+
+figcaption{
+    text-align: center;}
